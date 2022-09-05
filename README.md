@@ -13,6 +13,7 @@
   
   ## <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Megalith's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MegalithOffical&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   
+  <img src="https://komarev.com/ghpvc/?username=megalithoffical&label=Ziyaretçi%20Sayısı&color=da004e" alt="MegalithOffical" />
   <img align="center" src="https://github.com/danicaus/danicaus/blob/output/github-contribution-grid-snake.svg" />
   
 </div> 
