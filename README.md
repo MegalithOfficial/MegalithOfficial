@@ -9,7 +9,6 @@
   <a href="https://github.com/TheSidOffical" onmouseover="this.style.textDecoration='none'">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MegalithOffical&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegalithOffical&layout=compact&langs_count=7&theme=omni" />
-       <img src="https://komarev.com/ghpvc/?username=megalithoffical&label=Ziyaretçi%20Sayısı&color=da004e" alt="MegalithOffical" />
   </a>
   
   ## <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Megalith's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MegalithOffical&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
