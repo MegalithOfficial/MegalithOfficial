@@ -17,8 +17,5 @@ Im Node.js, Java, Typescript and Go developer!<br>Im currently working on new pr
   ## <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Megalith's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MegalithOffical&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Megalithoffical&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-  
-  <img align="center" src="https://github.com/danicaus/danicaus/blob/output/github-contribution-grid-snake.svg" />
-  
+![](https://github-profile-trophy.vercel.app/?username=Megalithoffical&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 </div> 
