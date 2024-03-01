@@ -1,5 +1,5 @@
 <h1>Hi✌</h1>
-Im Node.js, Java, Typescript and Rsut developer!<br>Im currently working on new procjects!<br>Im currently learning Go!
+Im Node.js, Java, Typescript and Rust developer!<br>Im currently working on new procjects!<br>Im currently learning Go!
 <p align="center">
     <a href="https://github.com/MegalithOfficial/github-readme-streak-stats">
     </a>
