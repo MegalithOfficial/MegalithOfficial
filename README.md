@@ -1,4 +1,4 @@
-# Hey, I'm Megalith 👋:
+# Hey, I'm Megalith 👋
 🏗 I’m currently working on LettuceAI and loomstr<br>🤝 I’m looking to collaborate on Open-source Rust/Node projects<br>👐 I’m looking for help with UI/UX feedback, beta testing<br>🌱 I’m currently learning Advanced Rust, AI architectures and music production/mixing<br>💬 Ask me about Cross-platform development and API integrations
 
 
