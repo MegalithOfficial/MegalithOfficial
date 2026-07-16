@@ -1,4 +1,4 @@
-Software should be fast and private. I'm a backend developer working with Rust, Java, Kotlin, Python, and TypeScript. Here are some of my creations:
+Software should be beautiful and work beautifully. I'm a backend developer working with Rust, Java, Kotlin, Python, and TypeScript. Here are some of my creations:
 
 - [LettuceAI](https://github.com/LettuceAI/app): Privacy-first AI roleplay & companion app with long-term memory, BYOK, and 20+ providers. Runs everywhere.
 - [Rift](https://github.com/MegalithOfficial/Rift): A modern Linux command palette and app launcher focused on speed, privacy, and keyboard workflows.
