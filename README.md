@@ -17,13 +17,15 @@ Smaller things:
 
 ---
 
-<p>
+<p align="center">
   <img height="170" src="https://github-readme-stats.shion.dev/api?username=MegalithOfficial&theme=merko&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="170" src="https://streak-stats.demolab.com/?user=MegalithOfficial&theme=merko&hide_border=true" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MegalithOfficial/MegalithOfficial/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MegalithOfficial/MegalithOfficial/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MegalithOfficial/MegalithOfficial/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MegalithOfficial/MegalithOfficial/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MegalithOfficial/MegalithOfficial/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MegalithOfficial/MegalithOfficial/output/github-snake.svg" />
+  </picture>
+</p>
