@@ -17,8 +17,10 @@ Smaller things:
 
 ---
 
-![](https://github-readme-stats.shion.dev/api?username=MegalithOfficial&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=MegalithOfficial&theme=merko&hide_border=true)<br/>
+<p>
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=MegalithOfficial&theme=merko&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=MegalithOfficial&theme=merko&hide_border=true" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MegalithOfficial/MegalithOfficial/output/github-snake-dark.svg" />
