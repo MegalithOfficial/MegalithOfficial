@@ -1,8 +1,8 @@
 Software should be beautiful and work beautifully. I'm a backend developer working with Rust, Java, Kotlin, Python, and TypeScript. Here are some of my creations:
 
 - [LettuceAI](https://github.com/LettuceAI/app): Privacy-first AI roleplay & companion app with long-term memory, BYOK, and 20+ providers. Runs everywhere.
+- [Basalt Launcher](https://github.com/MegalithOfficial/basalt-launcher): A polished Minecraft launcher combining an artwork-led interface with powerful instance, mod, world, and account management.
 - [Rift](https://github.com/MegalithOfficial/Rift): A modern Linux command palette and app launcher focused on speed, privacy, and keyboard workflows.
-- [loomstr](https://github.com/MegalithOfficial/loomstr): A fast, lightweight TypeScript template engine with slot-based interpolation.
 - [Showcase Studio](https://github.com/MegalithOfficial/Showcase-Studio): Turns Discord messages into professional showcases and presentations.
 - [SAGE](https://github.com/MegalithOfficial/sage): A lightweight, privacy-first content moderation model for chat and roleplay.
 - [Zinc](https://github.com/MegalithOfficial/Zinc): Zig toolchain management and ZLS integration for the Zed editor.
