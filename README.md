@@ -12,7 +12,6 @@ Smaller things:
 - [wayframe](https://github.com/MegalithOfficial/wayframe): Server-side decorations for stubborn apps on GNOME.
 - [tauri-plugin-single-window](https://github.com/MegalithOfficial/tauri-plugin-single-window): Prevents duplicate Tauri app instances.
 - [nautilus-file-converter](https://github.com/MegalithOfficial/nautilus-file-converter): Right-click file format conversion for GNOME Files.
-- [basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher): A Minecraft launcher built with Rust and Tauri.
 - [meg.db-light](https://github.com/MegalithOfficial/meg.db-light): A type-safe embedded database module for TypeScript.
 
 ---
