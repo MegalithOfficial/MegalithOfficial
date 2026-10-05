@@ -1,4 +1,4 @@
-Software should be beautiful and work beautifully. I'm a backend developer working with Rust, Java, Kotlin, Python, and TypeScript. Here are some of my creations:
+Software should be beautiful and work beautifully. I'm a backend developer working with Rust, C++, Kotlin, Python, and TypeScript. Here are some of my creations:
 
 - [LettuceAI](https://github.com/LettuceAI/app): Privacy-first AI roleplay & companion app with long-term memory, BYOK, and 20+ providers. Runs everywhere.
 - [Basalt Launcher](https://github.com/MegalithOfficial/basalt-launcher): A polished Minecraft launcher combining an artwork-led interface with powerful instance, mod, world, and account management.
