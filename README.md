@@ -1,6 +1,8 @@
 Software should be beautiful and work beautifully. I'm a backend developer working with Rust, C++, Kotlin, Python, and TypeScript. Here are some of my creations:
 
 - [LettuceAI](https://github.com/LettuceAI/app): Privacy-first AI roleplay & companion app with long-term memory, BYOK, and 20+ providers. Runs everywhere.
+- [Lettuce Thymos](https://huggingface.co/Zeolit/lettuce-thymos-26m-v1): A compact multilingual emotion classifier with 26.5M parameters, covering 28 emotions across 22 languages.
+- [Lettuce Eidos](https://huggingface.co/Zeolit/lettuce-eidos-768d-v5): A multilingual embedding model for conversational memory retrieval, supporting 15 languages, 64–768 dimensional Matryoshka embeddings, and a 4,096-token context.
 - [Basalt Launcher](https://github.com/MegalithOfficial/basalt-launcher): A polished Minecraft launcher combining an artwork-led interface with powerful instance, mod, world, and account management.
 - [Rift](https://github.com/MegalithOfficial/Rift): A modern Linux command palette and app launcher focused on speed, privacy, and keyboard workflows.
 - [Showcase Studio](https://github.com/MegalithOfficial/Showcase-Studio): Turns Discord messages into professional showcases and presentations.
